@@ -10,7 +10,7 @@ prevent app updates or uninstall them if they occur and remove the local import 
 
 via https://t.me/MiThemesGlobal
 
-## MIUI Theme Editor V2.0.5 (HypersOS 3) (22-01-2026)
+## MIUI Theme Editor V2.0.5 (HyperOS 3) (22-01-2026)
 
 Editor for Windows 
 https://cdn.alsgp0.fds.api.mi-img.com/global-theme/editor/XiaomiThemeEditor_global/XiaomiThemeEditor_global__v2.0.5_win_x64.zip
