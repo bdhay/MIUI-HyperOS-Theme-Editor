@@ -6,7 +6,7 @@ https://github.com/Mods-Center/HyperOS-Theme-Manager
 
 prevent app updates or uninstall them if they occur and remove the local import functionality again.
 
-# MIUI HyperOS Theme Editor
+# MIUI HyperOS Theme Editor by Xiaomi
 
 via https://t.me/MiThemesGlobal
 
