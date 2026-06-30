@@ -1,6 +1,6 @@
 # HyperOS Theme Manager Magisk Module
 
-on rooted phones, if the ROM Themes app does not support manual import (My Account->Themes->Import button on display bottom) you can replace it using
+suggest for rooted phones, if the ROM Themes app does not support manual import (My Account->Themes->Import button on display bottom) you can replace it using
 
 https://github.com/Mods-Center/HyperOS-Theme-Manager
 
