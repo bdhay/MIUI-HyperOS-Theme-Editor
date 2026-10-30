@@ -1,12 +1,15 @@
 # HyperOS Theme Manager Magisk Module
 
-suggest for rooted phones, if the ROM Themes app does not support manual import (My Account->Themes->Import button on display bottom) you can replace it using
+if the ROM Themes app does not support manual import (`My Account->Themes->Import` button on display bottom) you can replace it using
 
 https://github.com/Mods-Center/HyperOS-Theme-Manager
 
-prevent app updates or uninstall them if they occur and remove the local import functionality again.
+if this app crashes you may need to remove the baked in `Themes` app beforehand. 
+System App Nuker https://github.com/ChiseWaguri/systemapp_nuker proved helpful in that regard.
 
-# MIUI HyperOS Theme Editor by Xiaomi
+**NOTE:** prevent app updates or uninstall them if they occur and remove the local import functionality again.
+
+# MIUI HyperOS Theme Editor by Xiaomi download links
 
 via https://t.me/MiThemesGlobal
 
